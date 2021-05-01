@@ -1,0 +1,8 @@
+jupyter
+altair
+pandas
+numpy
+geopandas
+shapely
+panel
+
